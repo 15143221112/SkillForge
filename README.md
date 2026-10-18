@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="docs/assets/structure.svg" alt="SkillForge 结构" width="720"/>
+</p>
+
 ## 🌟 为什么是 SkillForge？
 
 一个领域的真正价值，藏在**专家的思维方式**里——不是零散的知识点，而是"遇到问题怎么想、先查什么、按什么规则判断、怎么给结论"的整套方法论。

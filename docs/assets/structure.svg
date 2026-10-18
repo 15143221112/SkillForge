@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1533"/>
+      <stop offset="100%" stop-color="#3d2a66"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="540" fill="url(#bg)" rx="16"/>
+  <text x="40" y="52" font-family="Arial,sans-serif" font-size="30" font-weight="bold" fill="#c4a5ff">⚒️ SkillForge</text>
+  <text x="40" y="84" font-family="Arial,sans-serif" font-size="16" fill="#dcc9ff">思维技能工坊 · 把专家大脑蒸馏成可复用 Agent Skill</text>
+  <line x1="40" y1="104" x2="720" y2="104" stroke="#7a5cc0" stroke-width="2"/>
+
+  <g font-family="Consolas,monospace" font-size="16">
+    <text x="48" y="140" fill="#c9b0f0">SkillForge/</text>
+    <text x="72" y="176" fill="#e6d8ff">├─ zuxiaoli-rice/      🌾 祖小力 · 寒地水稻四攻四防</text>
+    <text x="72" y="210" fill="#e6d8ff">├─ yanboshi-rice/      🌾 严博士 · 寒地水稻专家答疑</text>
+    <text x="72" y="244" fill="#e6d8ff">├─ kongzi-perspective/ 📜 孔子 · 仁礼互构思维框架</text>
+    <text x="72" y="278" fill="#e6d8ff">├─ laozi-perspective/  🌀 老子 · 道法自然决策智慧</text>
+    <text x="72" y="312" fill="#e6d8ff">├─ lunyu-skill/        📖 论语 · 10 项能力卡</text>
+    <text x="72" y="346" fill="#e6d8ff">└─ xianghe-perspective/ 🛠 湘河 · 工程方法论</text>
+  </g>
+
+  <rect x="430" y="380" width="290" height="120" rx="10" fill="rgba(255,255,255,0.08)" stroke="#7a5cc0"/>
+  <text x="450" y="412" font-family="Arial,sans-serif" font-size="14" fill="#c4a5ff">✨ 即插即用</text>
+  <text x="450" y="440" font-family="Arial,sans-serif" font-size="13" fill="#e6d8ff">每个 Skill = 独立目录 + SKILL.md</text>
+  <text x="450" y="462" font-family="Arial,sans-serif" font-size="13" fill="#e6d8ff">含心智模型 + 判定规则 + 表达DNA</text>
+  <text x="450" y="484" font-family="Arial,sans-serif" font-size="13" fill="#e6d8ff">复制进技能目录即激活</text>
+</svg>
