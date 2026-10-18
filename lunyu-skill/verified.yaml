@@ -1,0 +1,61 @@
+capabilities:
+  - capability_id: zhongshu
+    intents: [换位思考, 己所不欲勿施于人, 公平待人, 提要求前换位思考]
+    keywords: [恕, 忠恕, 己所不欲, 推己及人, 立人达人, 换位思考, 公平吗]
+    one_liner: 决策前先换位：我不愿被这样对待就别这样对人；我想立就帮人立。
+    importance: high
+    description: 孔子"一以贯之"的恕道：以自己真实好恶为参照做换位推演（出处《卫灵公》24《雍也》30《里仁》15）。
+  - capability_id: keji
+    intents: [管住冲动, 收束欲望, 言行分寸, 克己]
+    keywords: [克己复礼, 非礼勿视, 四勿, 冲动, 管住嘴]
+    one_liner: 看/听/言/动四道闸门，不合分寸先刹车。
+    importance: high
+    description: 颜渊问仁的"四勿"修养（《颜渊》1）：事前事中即时收束过度的言行。
+  - capability_id: xueguan
+    intents: [学了不会用, 学思结合, 知识落地, 复习]
+    keywords: [学而时习, 学而不思则罔, 温故知新, 学习方法, 落地]
+    one_liner: 学→习→思→温故知新闭环，光学不思会迷、只思不学会险。
+    importance: high
+    description: 把知识变能力的四环学习法（《学而》1《为政》11·15《卫灵公》31）。
+  - capability_id: tushang
+    intents: [类推, 举一反三, 启发别人, 由此及彼]
+    keywords: [举一反三, 闻一知十, 告往知来, 举隅, 启发]
+    one_liner: 等对方到临界点再点拨；给一例要能推同类。
+    importance: medium
+    description: 启发式教学与类推思维（《述而》8《学而》15《公冶长》9）。
+  - capability_id: yincai
+    intents: [因人施教, 对不同人说不同话, 有教无类, 差异化建议]
+    keywords: [因材施教, 有教无类, 诲人不倦, 因人而异, 进退]
+    one_liner: 同一问题，对退缩者推一把、对冒进者拉一把，深浅按层次调。
+    importance: high
+    description: 因材施教+有教无类（《先进》22《颜渊》1-3《雍也》21《卫灵公》39）。
+  - capability_id: junzi
+    intents: [义利取舍, 利益与原则冲突, 归责, 君子小人]
+    keywords: [君子喻于义, 求诸己, 不义而富且贵, 义利, 原则]
+    one_liner: 先问该不该再问划不划算；出事先求诸己。
+    importance: high
+    description: 君子义利之辨与求诸己（《里仁》16《卫灵公》21·32）。
+  - capability_id: guogai
+    intents: [复盘错误, 自省, 改错, 见贤思齐]
+    keywords: [吾日三省, 见贤思齐, 过则勿惮改, 九思, 内自省, 慎独]
+    one_liner: 三省+见贤思齐+不怕认错只怕不改，把错误闭环成改进。
+    importance: high
+    description: 改过自省法（《学而》4·8《里仁》17《卫灵公》30《子张》21）。
+  - capability_id: zhongyong
+    intents: [避免极端, 折中, 和而不同, 过犹不及]
+    keywords: [中庸, 过犹不及, 和而不同, 中行, 折中, 走极端]
+    one_liner: 过与不及一样坏，往中行拉；和而不同别苟同。
+    importance: medium
+    description: 中庸与和而不同（《先进》16《子路》21·23）。
+  - capability_id: zhengming
+    intents: [理顺权责, 名实不符, 定义不清, 对齐角色]
+    keywords: [正名, 名不正言不顺, 君君臣臣, 权责, 名实]
+    one_liner: 事先理顺往往先乱在名——把定义/权责/称谓对齐再行动。
+    importance: medium
+    description: 正名方法论（《子路》3《颜渊》11《季氏》1）。
+  - capability_id: jiaoyou
+    intents: [规劝朋友, 交友选择, 成人之美, 劝而不翻脸]
+    keywords: [忠告善道, 益者三友, 成人之美, 不可则止, 交友]
+    one_liner: 交益友远损友；规劝忠言善道、不听就停别自取其辱。
+    importance: medium
+    description: 交友与成人之美（《颜渊》16·23《季氏》4《里仁》26）。

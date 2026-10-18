@@ -1,0 +1,17 @@
+{
+  "skill": "lunyu-skill",
+  "promotion_rule": "前3判据(独立意图/独立契约/独立运行)必过，后2(独立复用/独立评测)至少1过",
+  "destinations": [
+    {"capability_id": "zhongshu", "promotion": "router", "destination": "this-skill"},
+    {"capability_id": "keji", "promotion": "router", "destination": "this-skill"},
+    {"capability_id": "xueguan", "promotion": "router", "destination": "this-skill"},
+    {"capability_id": "tushang", "promotion": "router", "destination": "this-skill"},
+    {"capability_id": "yincai", "promotion": "router", "destination": "this-skill"},
+    {"capability_id": "junzi", "promotion": "router", "destination": "this-skill"},
+    {"capability_id": "guogai", "promotion": "router", "destination": "this-skill"},
+    {"capability_id": "zhongyong", "promotion": "router", "destination": "this-skill"},
+    {"capability_id": "zhengming", "promotion": "router", "destination": "this-skill"},
+    {"capability_id": "jiaoyou", "promotion": "router", "destination": "this-skill"}
+  ],
+  "note": "single-first：10 个能力同属《论语》修身方法论一套，全部作为本 skill 内的 router 能力卡，不各自独立成 skill。"
+}
